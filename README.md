@@ -27,7 +27,7 @@ A clean and adaptable landing page designed with a modern look, built using HTML
 - **Tech Stack**:
   - HTML, CSS, Bootstrap
 
-![Flexible Landing Page Preview](HTML-css-bootstrap-project/Flexible-Landing-Page/Landing-Page-Preview.png)
+![Flexible Landing Page Preview](https://github.com/anujkp-97/Frontend-Project/blob/main/HTML-CSS-Bootstrap-Project/flex-landing-page-website/Landing-Page-Preview.png)
 
 ---
 
