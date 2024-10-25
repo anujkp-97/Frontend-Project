@@ -14,7 +14,7 @@ A responsive hotel website built with HTML, CSS, Bootstrap, and a touch of JavaS
 - **Tech Stack**:
   - HTML, CSS, Bootstrap, JavaScript
 
-![Hotel Website Preview](HTML-css-bootstrap-project/Hotel-Website/your-image-name.png)
+![Hotel Website Preview](HTML-css-bootstrap-project/Hotel-Website/Hotel-Website-Preview.png)
 
 ### 2. Flexible Landing Page
 A clean and adaptable landing page designed with a modern look, built using HTML, CSS, and Bootstrap.
@@ -26,7 +26,7 @@ A clean and adaptable landing page designed with a modern look, built using HTML
 - **Tech Stack**:
   - HTML, CSS, Bootstrap
 
-![Flexible Landing Page Preview](HTML-css-bootstrap-project/Flexible-Landing-Page/your-image-name.png)
+![Flexible Landing Page Preview](HTML-css-bootstrap-project/Flexible-Landing-Page/Landing-Page-Preview.png)
 
 ---
 
